@@ -25,7 +25,7 @@ public class Example01 {
     }
 
     public static void main(String[] args) {
-        int [] a = {12, 1, 32, 8, 9, 11, 43, 84, 3};
+        int [] a = {12, 1, 32, 2, 9, 11, 43, 84, 3};
 
        int i =  findMax(a);
         System.out.println(i);
